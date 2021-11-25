@@ -1,0 +1,44 @@
+.login_div{
+			margin-top: 90px
+		}
+		
+		.logo{
+	        width:120px;
+	        height:120px;
+	        margin-top:20px;
+	    }
+	    .mes_div{
+	    	height: 30px;
+	    	background-color: #eda390;
+	    	text-align: center;
+	    	border-radius: 5px;
+	    	padding-top:6px;
+	    	font-size: 12px;
+	    	display: none;
+	    	border:1px solid #706a68;
+	    }
+	    #mmgLogo{
+	    	position: fixed;
+	    	top:30px;
+	    	left:30px;
+	    }
+	   .font1{
+	   		padding-top: 10px;
+	   		font-family: 'Poiret One', cursive;
+	   		font-weight: bold;
+	   		font-size: 17px
+	   	}
+	   #footer{
+	   	margin-top: 50px;
+	   	color:#8e8879;
+	   }
+	   .body1{
+	   	background-color:#b5e7f7 
+	   }
+	   .body3{
+	   	background-color: #fff
+       }
+       
+       .lato{
+        font-family: 'Lato', sans-serif;
+       }

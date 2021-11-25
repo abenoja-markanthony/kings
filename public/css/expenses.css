@@ -1,0 +1,23 @@
+#tbl1 {
+    font-size: 12px;
+}
+
+tr{
+    text-align: center;
+}
+
+th{
+    font-size: 10px;
+    background-color:#222b3d;
+    color:#fff
+}
+
+.btn1{
+    padding:1px;
+    width:50px
+}
+
+.btn2{
+    width: 25px;
+    padding: 0px;
+}

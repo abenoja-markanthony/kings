@@ -1,0 +1,31 @@
+#table1{
+    background-color: #fff;
+    font-size: 11px;
+    border: 1px solid #1C6EA4;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#table1 th{
+    background-color: #445475;
+    text-align: center;
+    border: 1px solid #AAAAAA;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 0px solid #D0E4F5;
+}
+.con1  {
+    background-color:#fff;
+    padding-top: 10px;
+}
+
+#table1 td{
+    border: 1px solid rgb(179, 174, 174);
+}
+
+
+.t_right{
+    text-align: right;
+    padding-right: 200px
+}
